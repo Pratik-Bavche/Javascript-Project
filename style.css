@@ -1,0 +1,147 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    display:flex;
+    justify-content: right;
+    background-color: grey;
+    cursor: pointer;
+}
+.logo img{
+    width: 10%;
+    border-radius: 50%;
+    
+}
+.navbar li{
+    list-style: none;
+    margin: 20x;
+    padding: 10px;
+}
+.navbar li a{
+    text-decoration: none; 
+    font-size: 20px; 
+    margin: 50px;
+    color:white;
+}
+.bgclr{
+    background-image: url("https://hlb.com.au/media/2022/05/Agricultural-investments.jpg");
+    background-color: linen;
+    height: 65%;
+    padding: 13px;
+}
+.card{
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.pname{
+    margin: 20px;
+    font-size: 40px;
+    border-bottom: 2px solid black;
+}
+.btn{
+    margin: 10px 0px 0px 100px;
+    font-size: 25px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid white;
+    padding: 5px;
+}
+.cart1{
+    margin: 10px 0px 0px 95px;
+    font-size: 25px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid white;
+    padding: 5px;
+}
+.btn1{
+    margin: 10px 0px 0px 150px;
+    font-size: 25px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid white;
+    padding: 5px;
+}
+.cart2{
+    margin: 10px 0px 0px 95px;
+    font-size: 25px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid white;
+    padding: 5px;
+}
+.btn2{
+    margin: 10px 0px 0px 150px;
+    font-size: 25px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid white;
+    padding: 5px;
+}
+.cart3{
+    margin: 10px 0px 0px 95px;
+    font-size: 25px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: 0px solid white;
+padding: 5px;
+}
+.p1{
+    margin-left: 180px;
+    font-size: 23px;
+    
+}
+.p2{
+
+    margin-left: 400px;
+    font-size: 23px;
+}
+.p3{
+
+    margin-left: 400px;
+    font-size: 23px;
+}
+.p4{
+
+    margin-left: 450px;
+    font-size: 23px;
+}
+.p5{
+
+    margin-left: 450px;
+    font-size: 23px;
+}
+.p6{
+
+    margin-left: 430px;
+    font-size: 23px;
+}
+.p7{
+
+    margin-left: 430px;
+    font-size: 23px;
+}
+.ftr{
+    
+        text-align: center;
+        padding: 15px;
+        background-color: black;
+        color: white;
+}
+html{
+    scroll-behavior: smooth;
+}
+.abut{
+    font-size: 20px;
+    margin-left: 10px;
+}
